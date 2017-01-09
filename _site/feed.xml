@@ -3,10 +3,10 @@
   <channel>
     <title>VMR</title>
     <description>I am a M.Sc. Student at State University of Campinas where I am investigating techniques to detect performance issues in Virtual Machines, JIT Compilers and Compilers in general. My research is currently being developed at the Multidisciplinary High Performance Computing Lab.</description>
-    <link>localhost:4000/</link>
-    <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 09 Jan 2017 17:58:26 -0200</pubDate>
-    <lastBuildDate>Mon, 09 Jan 2017 17:58:26 -0200</lastBuildDate>
+    <link>https://vandersonmr.github.io//</link>
+    <atom:link href="https://vandersonmr.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 09 Jan 2017 18:02:54 -0200</pubDate>
+    <lastBuildDate>Mon, 09 Jan 2017 18:02:54 -0200</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -27,8 +27,8 @@
 
 </description>
         <pubDate>Mon, 09 Jan 2017 13:53:48 -0200</pubDate>
-        <link>localhost:4000/jekyll/update/2017/01/09/welcome-to-jekyll.html</link>
-        <guid isPermaLink="true">localhost:4000/jekyll/update/2017/01/09/welcome-to-jekyll.html</guid>
+        <link>https://vandersonmr.github.io//jekyll/update/2017/01/09/welcome-to-jekyll.html</link>
+        <guid isPermaLink="true">https://vandersonmr.github.io//jekyll/update/2017/01/09/welcome-to-jekyll.html</guid>
         
         
         <category>jekyll</category>
@@ -55,8 +55,8 @@
 
 </description>
         <pubDate>Mon, 09 Jan 2017 13:53:48 -0200</pubDate>
-        <link>localhost:4000/jekyll/update/2017/01/09/Machine-Learning.html</link>
-        <guid isPermaLink="true">localhost:4000/jekyll/update/2017/01/09/Machine-Learning.html</guid>
+        <link>https://vandersonmr.github.io//jekyll/update/2017/01/09/Machine-Learning.html</link>
+        <guid isPermaLink="true">https://vandersonmr.github.io//jekyll/update/2017/01/09/Machine-Learning.html</guid>
         
         
         <category>jekyll</category>

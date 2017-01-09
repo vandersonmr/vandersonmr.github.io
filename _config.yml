@@ -10,7 +10,7 @@ title: VMR
 email: vandersonmr2@gmail.com
 description: I am a M.Sc. Student at State University of Campinas where I am investigating techniques to detect performance issues in Virtual Machines, JIT Compilers and Compilers in general. My research is currently being developed at the Multidisciplinary High Performance Computing Lab.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site
+url: "https://vandersonmr.github.io/" # the base hostname & protocol for your site
 twitter_username: vandersonmr_
 github_username:  vandersonmr
 
