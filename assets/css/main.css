@@ -1718,6 +1718,7 @@
 	header p {
 /*		color: #b2b2b2;*/
 		position: relative;
+    font-size: 17px;
 		margin: 0 0 1.5em 0;
 	}
 
