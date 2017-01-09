@@ -21,7 +21,6 @@ comments: true
           <div class="post-content" itemprop="articleBody">
             {{ content }}
 
-            {% raw %}{% if page.comments != false %}
             <div id="disqus_thread"></div>
             <script type="text/javascript">
             var disqus_shortname  = '{{ site.disqus_shortname }}';
@@ -34,7 +33,6 @@ comments: true
             })();
             </script>
             <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-            {% endif %}{% endraw %}
           </div>
 
         </article>
