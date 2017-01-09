@@ -2,7 +2,7 @@
 layout: post
 title:  "Machine Learning!"
 date:   2017-01-09 13:53:48 -0200
-image: http://41.media.tumblr.com/173cb5c51a1c308ab022a786f69353f3/tumblr_nwncf1T2ht1rl195mo1_1280.jpg
+image: http://blog.mailgun.com/content/images/2016/09/ml.jpg
 vertical: Code
 excerpt: "Jekyll is pretty cool, here"
 categories: jekyll update
