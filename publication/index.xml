@@ -1,23 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on From Lab to Machine</title>
-    <link>https://vandersonmr.github.io/publication/</link>
-    <description>Recent content in Publications on From Lab to Machine</description>
+    <title>Publications on vandersonmr</title>
+    <link>/publication/</link>
+    <description>Recent content in Publications on vandersonmr</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2017 Vanderson Martins do Rosario</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/publication/" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>myBee: An Information System for Precision Beekeeping</title>
-      <link>https://vandersonmr.github.io/publication/mybee/</link>
-      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://vandersonmr.github.io/publication/mybee/</guid>
-      <description></description>
-    </item>
+	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>
