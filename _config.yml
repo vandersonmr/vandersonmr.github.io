@@ -38,6 +38,10 @@ navigation_links:
 
 # Footer icons
 footer_links:
+  - title: Linkedin 
+    url: https://www.linkedin.com/in/vandersonrosario/
+    icon: fa fa-linkedin-square
+
   - title: Feed
     url: feed.xml
     icon: fa fa-rss-square
