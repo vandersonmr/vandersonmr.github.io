@@ -6,10 +6,8 @@ permalink: /about
 
 <img src="assets/image/eu.webp" alt="myself" style="float: left;margin-right: 20px;width:40%;"/>
 
-I am a Ph.D. in Computer Science (UNICAMP - Brazil) and Deep Learn Compiler Engineer at Cadence Design Systems (San Jose - US).
+I hold a Ph.D. in Computer Science from UNICAMP in Brazil and work as a Deep Learning Compiler Engineer at Cadence Design Systems in San Jose, US. My experience includes working with programming languages such as Python, C, C++, ONNX, MLIR, and Linux Shell, and contributing to FLOSS projects like LLVM, TensorFlow/XLA, and QEMU.
 
-I have experience working with Python, C, C++, ONNX, MLIR, and Linux Shell, having contributed to FLOSS projects such as LLVM, Tensorflow/XLA, and QEMU.
+I am a Brazilian, I enjoy traveling and engaging in activities like inline skating and dancing (forro, salsa, and samba). I am also passionate about learning, particularly in areas like physics, math, and computer science. Through this blog, I hope to share some of the things that I am learning in my personal and professional life.
 
-I am a Brazilian, I love to travel, skate (inline skate), dance (forro, salsa, samba), and learn (physics, math, comp sci). In this blog, I will try to share some of the stuff that I am learning through life.
-
-Feel free to contact me: vandersonmr2 at gmail dot com
+If you would like to reach me, please feel free to contact me at vandersonmr2@gmail.com
